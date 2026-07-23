@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Project metadata (local only)
+AGENTS.md
+
+# Temp files
+*.tmp
+~$*

@@ -1,0 +1,313 @@
+product_id,name,category,subcategory,unit_price,cost,price_outlier_db,sku,item_name,dept,list_price_usd,supplier_cost,in_stock_units,price_outlier_cat,_merge
+1.0,Black Camera,Electronics,Cameras,433.54,224.24,False,1.0,Black Camera,Electronics,440.6266121051296,224.24,270.0,False,both
+2.0,Maintain Laptop,Electronics,Laptops,807.37,351.48,False,2.0,Maintain Laptop,Electronics,794.8056489665487,351.48,16.0,False,both
+3.0,Start Accessorie,Electronics,Accessories,978.72,367.95,False,3.0,Start Accessorie,Electronics,1009.6660840308892,367.95,91.0,False,both
+4.0,Movement Headphone,Electronics,Headphones,17.97,12.57,False,,,,,,,,left_only
+5.0,Yeah Smartphone,Electronics,Smartphones,503.34,180.1,False,5.0,Yeah Smartphone,Electronics,524.449133438593,180.1,161.0,False,both
+6.0,Important Laptop,Electronics,Laptops,531.19,192.72,False,,,,,,,,left_only
+7.0,Beyond Accessorie,Electronics,Accessories,357.42,167.06,False,7.0,Beyond Accessorie,Electronics,359.0951031936047,167.06,104.0,False,both
+8.0,Plant Smartphone,Electronics,Smartphones,295.82,122.24,False,8.0,Plant Smartphone,Electronics,289.99422677459245,122.24,489.0,False,both
+9.0,Right Laptop,Electronics,Laptops,66.57,26.82,False,9.0,Right Laptop,Electronics,67.34849674358524,26.82,5.0,False,both
+10.0,After Laptop,Electronics,Laptops,309.24,235.47,False,10.0,After Laptop,Electronics,306.0290641122288,235.47,474.0,False,both
+11.0,Change Smartphone,Electronics,Smartphones,216.27,129.85,False,11.0,Change Smartphone,Electronics,218.16398756169224,129.85,46.0,False,both
+12.0,Get Smartphone,Electronics,Smartphones,156.75,77.9,False,12.0,Get Smartphone,Electronics,163.4162311099779,77.9,238.0,False,both
+13.0,Support Headphone,Electronics,Headphones,152.16,71.45,False,,,,,,,,left_only
+14.0,Find Headphone,Electronics,Headphones,90.93,61.01,False,14.0,Find Headphone,Electronics,90.07089876314174,61.01,12.0,False,both
+15.0,Sea Headphone,Electronics,Headphones,536.46,192.64,False,15.0,Sea Headphone,Electronics,535.3471062451271,192.64,50.0,False,both
+16.0,Yes Smartphone,Electronics,Smartphones,245.66,101.09,False,,,,,,,,left_only
+17.0,Light Laptop,Electronics,Laptops,953.82,375.23,False,,,,,,,,left_only
+18.0,Rest Camera,Electronics,Cameras,35.67,20.03,False,18.0,Rest Camera,Electronics,36.7172909851647,20.03,423.0,False,both
+19.0,Improve Smartphone,Electronics,Smartphones,727.02,269.65,False,19.0,Improve Smartphone,Electronics,750.2348585350576,269.65,23.0,False,both
+20.0,Arm Accessorie,Electronics,Accessories,548.49,335.04,False,20.0,Arm Accessorie,Electronics,545.4342392825207,335.04,182.0,False,both
+21.0,Right Camera,Electronics,Cameras,614.24,247.11,False,21.0,Right Camera,Electronics,611.6941328170767,247.11,216.0,False,both
+22.0,Scientist Smartphone,Electronics,Smartphones,205.71,98.81,False,22.0,Scientist Smartphone,Electronics,215.6565756530213,98.81,461.0,False,both
+23.0,Cost Headphone,Electronics,Headphones,235.35,174.8,False,23.0,Cost Headphone,Electronics,231.54836356900927,174.8,39.0,False,both
+24.0,Concern Headphone,Electronics,Headphones,696.97,282.68,False,24.0,Concern Headphone,Electronics,731.2565638670629,282.68,55.0,False,both
+25.0,Protect Headphone,Electronics,Headphones,282.92,149.7,False,25.0,Protect Headphone,Electronics,284.6366520186707,149.7,132.0,False,both
+26.0,Agent Laptop,Electronics,Laptops,259.69,123.49,False,26.0,Agent Laptop,Electronics,268.03345970858004,123.49,364.0,False,both
+27.0,Into Laptop,Electronics,Laptops,686.85,342.59,False,,,,,,,,left_only
+28.0,Series Accessorie,Electronics,Accessories,749.19,279.01,False,28.0,Series Accessorie,Electronics,745.7388174284612,279.01,402.0,False,both
+29.0,Pressure Accessorie,Electronics,Accessories,103.82,57.5,False,29.0,Pressure Accessorie,Electronics,103.43287935896892,57.5,251.0,False,both
+30.0,Hospital Laptop,Electronics,Laptops,477.17,214.5,False,30.0,Hospital Laptop,Electronics,497.31639655438255,214.5,118.0,False,both
+31.0,Wide Laptop,Electronics,Laptops,976.57,373.86,False,31.0,Wide Laptop,Electronics,970.2493794774008,373.86,430.0,False,both
+32.0,East Smartphone,Electronics,Smartphones,338.4,127.28,False,,,,,,,,left_only
+33.0,Forward Accessorie,Electronics,Accessories,217.73,78.93,False,33.0,Forward Accessorie,Electronics,216.28870045064545,78.93,298.0,False,both
+34.0,Television Laptop,Electronics,Laptops,399.8,208.52,False,34.0,Television Laptop,Electronics,402.14689590776015,208.52,335.0,False,both
+35.0,Wide Camera,Electronics,Cameras,425.48,268.86,False,35.0,Wide Camera,Electronics,425.77044060633455,268.86,358.0,False,both
+36.0,Work Smartphone,Electronics,Smartphones,749.87,321.49,False,36.0,Work Smartphone,Electronics,763.1303290762097,321.49,393.0,False,both
+37.0,Executive Laptop,Electronics,Laptops,608.8,285.91,False,37.0,Executive Laptop,Electronics,601.2149910163138,285.91,100.0,False,both
+38.0,Say Camera,Electronics,Cameras,364.99,233.95,False,38.0,Say Camera,Electronics,374.73094548726,233.95,94.0,False,both
+39.0,Yeah Laptop,Electronics,Laptops,412.64,256.52,False,39.0,Yeah Laptop,Electronics,415.5124779192628,256.52,428.0,False,both
+40.0,Because Laptop,Electronics,Laptops,171.89,75.68,False,40.0,Because Laptop,Electronics,170.74616986593605,75.68,309.0,False,both
+41.0,Rest Smartphone,Electronics,Smartphones,376.48,158.48,False,41.0,Rest Smartphone,Electronics,389.33895657968543,158.48,399.0,False,both
+42.0,Cost Camera,Electronics,Cameras,328.75,216.35,False,42.0,Cost Camera,Electronics,328.95541226213817,216.35,180.0,False,both
+43.0,A Laptop,Electronics,Laptops,97.72,52.4,False,,,,,,,,left_only
+44.0,Walk Camera,Electronics,Cameras,6.81,4.3,False,44.0,Walk Camera,Electronics,6.958194713031108,4.3,196.0,False,both
+45.0,Beautiful Camera,Electronics,Cameras,511.39,183.54,False,,,,,,,,left_only
+46.0,Reflect Laptop,Electronics,Laptops,397.56,205.91,False,46.0,Reflect Laptop,Electronics,395.9490443178862,205.91,415.0,False,both
+47.0,Central Camera,Electronics,Cameras,513.39,252.36,False,47.0,Central Camera,Electronics,520.2695277995394,252.36,348.0,False,both
+48.0,Court Camera,Electronics,Cameras,231.62,156.59,False,48.0,Court Camera,Electronics,229.26053525469325,156.59,186.0,False,both
+49.0,Left Laptop,Electronics,Laptops,850.7,304.77,False,,,,,,,,left_only
+50.0,Wear Headphone,Electronics,Headphones,240.1,113.11,False,50.0,Wear Headphone,Electronics,247.6436330373156,113.11,278.0,False,both
+51.0,Former Cookware,Home & Kitchen,Cookware,863.34,370.52,False,51.0,Former Cookware,Home & Kitchen,887.9242480968924,370.52,332.0,False,both
+52.0,Still Cookware,Home & Kitchen,Cookware,12.48,6.91,False,52.0,Still Cookware,Home & Kitchen,12.745015582739368,6.91,248.0,False,both
+53.0,Student Decor,Home & Kitchen,Decor,192.38,115.82,False,53.0,Student Decor,Home & Kitchen,198.3746522103789,115.82,369.0,False,both
+54.0,We Decor,Home & Kitchen,Decor,679.71,371.36,False,54.0,We Decor,Home & Kitchen,680.0610502538397,371.36,466.0,False,both
+55.0,Others Cookware,Home & Kitchen,Cookware,395.52,222.82,False,55.0,Others Cookware,Home & Kitchen,400.6779969734537,222.82,207.0,False,both
+56.0,Heavy Appliance,Home & Kitchen,Appliances,186.07,83.65,False,56.0,Heavy Appliance,Home & Kitchen,184.5346293477425,83.65,120.0,False,both
+57.0,Try Cookware,Home & Kitchen,Cookware,510.39,229.78,False,57.0,Try Cookware,Home & Kitchen,517.499242355929,229.78,497.0,False,both
+58.0,Artist Appliance,Home & Kitchen,Appliances,87.55,52.45,False,,,,,,,,left_only
+59.0,Action Furniture,Home & Kitchen,Furniture,287.12,185.42,False,59.0,Action Furniture,Home & Kitchen,292.19594873705955,185.42,69.0,False,both
+60.0,Coach Furniture,Home & Kitchen,Furniture,148.68,113.95,False,60.0,Coach Furniture,Home & Kitchen,154.78912235542325,113.95,375.0,False,both
+61.0,Trade Appliance,Home & Kitchen,Appliances,512.76,233.12,False,,,,,,,,left_only
+62.0,Key Furniture,Home & Kitchen,Furniture,244.7,95.18,False,62.0,Key Furniture,Home & Kitchen,251.0214299943315,95.18,411.0,False,both
+63.0,Song Appliance,Home & Kitchen,Appliances,430.39,178.68,False,63.0,Song Appliance,Home & Kitchen,432.9974634332281,178.68,130.0,False,both
+64.0,Task Appliance,Home & Kitchen,Appliances,29.71,12.14,False,64.0,Task Appliance,Home & Kitchen,29.661220789760005,12.14,159.0,False,both
+65.0,Scene Appliance,Home & Kitchen,Appliances,460.75,176.35,False,,,,,,,,left_only
+66.0,Wide Cookware,Home & Kitchen,Cookware,447.18,201.12,False,66.0,Wide Cookware,Home & Kitchen,455.470739984241,201.12,170.0,False,both
+67.0,Apply Furniture,Home & Kitchen,Furniture,355.8,151.07,False,67.0,Apply Furniture,Home & Kitchen,362.94227289600695,151.07,447.0,False,both
+68.0,Bar Appliance,Home & Kitchen,Appliances,133.13,69.85,False,68.0,Bar Appliance,Home & Kitchen,139.01289199604528,69.85,229.0,False,both
+69.0,Front Decor,Home & Kitchen,Decor,274.11,163.83,False,69.0,Front Decor,Home & Kitchen,280.4666180714609,163.83,363.0,False,both
+70.0,Bring Furniture,Home & Kitchen,Furniture,402.01,153.64,False,,,,,,,,left_only
+71.0,Green Furniture,Home & Kitchen,Furniture,362.18,259.25,False,,,,,,,,left_only
+72.0,Difficult Cookware,Home & Kitchen,Cookware,286.08,157.38,False,72.0,Difficult Cookware,Home & Kitchen,295.7757315238011,157.38,142.0,False,both
+73.0,Travel Appliance,Home & Kitchen,Appliances,346.78,176.21,False,73.0,Travel Appliance,Home & Kitchen,349.90852466336054,176.21,485.0,False,both
+74.0,Serve Appliance,Home & Kitchen,Appliances,171.2,104.21,False,74.0,Serve Appliance,Home & Kitchen,171.7813075535283,104.21,434.0,False,both
+75.0,Wonder Decor,Home & Kitchen,Decor,299.66,192.98,False,75.0,Wonder Decor,Home & Kitchen,296.4010966670722,192.98,38.0,False,both
+76.0,Cover Furniture,Home & Kitchen,Furniture,938.11,338.82,False,76.0,Cover Furniture,Home & Kitchen,982.7733586489064,338.82,21.0,False,both
+77.0,What Furniture,Home & Kitchen,Furniture,103.53,38.72,False,77.0,What Furniture,Home & Kitchen,105.50216919566688,38.72,88.0,False,both
+78.0,Unit Cookware,Home & Kitchen,Cookware,213.82,102.41,False,78.0,Unit Cookware,Home & Kitchen,224.368375566328,102.41,439.0,False,both
+79.0,Hand Furniture,Home & Kitchen,Furniture,308.93,119.38,False,79.0,Hand Furniture,Home & Kitchen,318.46620831987434,119.38,492.0,False,both
+80.0,Success Furniture,Home & Kitchen,Furniture,166.05,93.95,False,80.0,Success Furniture,Home & Kitchen,164.4073827994286,93.95,317.0,False,both
+81.0,Real Furniture,Home & Kitchen,Furniture,779.01,349.11,False,81.0,Real Furniture,Home & Kitchen,816.5676178901372,349.11,401.0,False,both
+82.0,Rich Furniture,Home & Kitchen,Furniture,235.49,117.43,False,82.0,Rich Furniture,Home & Kitchen,246.77164247964456,117.43,97.0,False,both
+83.0,Rich Furniture,Home & Kitchen,Furniture,243.1,96.79,False,83.0,Rich Furniture,Home & Kitchen,247.6287633509728,96.79,422.0,False,both
+84.0,Per Cookware,Home & Kitchen,Cookware,43.2,29.75,False,84.0,Per Cookware,Home & Kitchen,44.592836597019016,29.75,439.0,False,both
+85.0,Event Furniture,Home & Kitchen,Furniture,530.7,214.98,False,85.0,Event Furniture,Home & Kitchen,528.7643611140095,214.98,39.0,False,both
+86.0,Less Decor,Home & Kitchen,Decor,443.6,290.11,False,86.0,Less Decor,Home & Kitchen,442.4897787194704,290.11,263.0,False,both
+87.0,Property Furniture,Home & Kitchen,Furniture,564.0,315.4,False,87.0,Property Furniture,Home & Kitchen,554.9187802522264,315.4,454.0,False,both
+88.0,Voice Decor,Home & Kitchen,Decor,275.21,206.76,False,88.0,Voice Decor,Home & Kitchen,281.3733386638156,206.76,308.0,False,both
+89.0,Prepare Cookware,Home & Kitchen,Cookware,247.06,159.34,False,89.0,Prepare Cookware,Home & Kitchen,256.97628023034093,159.34,78.0,False,both
+90.0,Group Furniture,Home & Kitchen,Furniture,219.22,99.04,False,90.0,Group Furniture,Home & Kitchen,220.2349769736369,99.04,393.0,False,both
+91.0,Almost Decor,Home & Kitchen,Decor,369.86,186.57,False,91.0,Almost Decor,Home & Kitchen,366.32092585602345,186.57,268.0,False,both
+92.0,Left Furniture,Home & Kitchen,Furniture,148.78,67.35,False,92.0,Left Furniture,Home & Kitchen,152.0647821174712,67.35,449.0,False,both
+93.0,Fear Appliance,Home & Kitchen,Appliances,98.57,56.95,False,93.0,Fear Appliance,Home & Kitchen,98.58708895666076,56.95,398.0,False,both
+94.0,Animal Appliance,Home & Kitchen,Appliances,514.73,271.98,False,,,,,,,,left_only
+95.0,They Appliance,Home & Kitchen,Appliances,711.68,355.85,False,95.0,They Appliance,Home & Kitchen,735.5585468647998,355.85,154.0,False,both
+96.0,Mind Decor,Home & Kitchen,Decor,682.77,315.19,False,,,,,,,,left_only
+97.0,Black Appliance,Home & Kitchen,Appliances,628.48,301.4,False,97.0,Black Appliance,Home & Kitchen,648.7542798344923,301.4,465.0,False,both
+98.0,Southern Appliance,Home & Kitchen,Appliances,71.96,53.12,False,98.0,Southern Appliance,Home & Kitchen,72.21614071149045,53.12,57.0,False,both
+99.0,Level Decor,Home & Kitchen,Decor,496.87,337.25,False,99.0,Level Decor,Home & Kitchen,488.0001470836773,337.25,213.0,False,both
+100.0,Sea Appliance,Home & Kitchen,Appliances,283.25,152.25,False,100.0,Sea Appliance,Home & Kitchen,295.9245530525444,152.25,350.0,False,both
+101.0,Cut Women,Apparel,Women,488.42,300.87,False,101.0,Cut Women,Apparel,484.7227077753743,300.87,411.0,False,both
+102.0,Three Women,Apparel,Women,396.98,181.63,False,102.0,Three Women,Apparel,411.0003644043425,181.63,325.0,False,both
+103.0,Carry Women,Apparel,Women,456.96,260.68,False,103.0,Carry Women,Apparel,479.6784875414062,260.68,166.0,False,both
+104.0,Major Men,Apparel,Men,957.31,360.5,False,104.0,Major Men,Apparel,960.380124442678,360.5,498.0,False,both
+105.0,Physical Footwear,Apparel,Footwear,375.87,188.14,False,105.0,Physical Footwear,Apparel,393.6694369640226,188.14,4.0,False,both
+106.0,Oil Footwear,Apparel,Footwear,150.04,54.77,False,106.0,Oil Footwear,Apparel,148.5462138670252,54.77,473.0,False,both
+107.0,Appear Women,Apparel,Women,963.92,359.12,False,,,,,,,,left_only
+108.0,Word Men,Apparel,Men,378.75,142.17,False,108.0,Word Men,Apparel,386.5048031085589,142.17,49.0,False,both
+109.0,Health Footwear,Apparel,Footwear,59.23,34.02,False,,,,,,,,left_only
+110.0,Section Footwear,Apparel,Footwear,52.92,19.09,False,110.0,Section Footwear,Apparel,54.25467171996266,19.09,73.0,False,both
+111.0,Situation Men,Apparel,Men,227.31,142.94,False,111.0,Situation Men,Apparel,227.577743153858,142.94,311.0,False,both
+112.0,Performance Women,Apparel,Women,10.73,7.39,False,112.0,Performance Women,Apparel,10.917228097911892,7.39,378.0,False,both
+113.0,Represent Kid,Apparel,Kids,55.28,26.78,False,113.0,Represent Kid,Apparel,56.01481192242025,26.78,357.0,False,both
+114.0,History Kid,Apparel,Kids,23.97,12.58,False,114.0,History Kid,Apparel,23.52326971226557,12.58,220.0,False,both
+115.0,Quickly Footwear,Apparel,Footwear,251.88,140.73,False,115.0,Quickly Footwear,Apparel,261.5945387221016,140.73,80.0,False,both
+116.0,Ahead Men,Apparel,Men,862.37,353.76,False,116.0,Ahead Men,Apparel,852.3685930920979,353.76,314.0,False,both
+117.0,White Men,Apparel,Men,567.69,267.53,False,117.0,White Men,Apparel,561.7868954380748,267.53,314.0,False,both
+118.0,During Men,Apparel,Men,611.17,399.46,False,118.0,During Men,Apparel,639.842186637484,399.46,82.0,False,both
+119.0,Reflect Kid,Apparel,Kids,519.85,265.26,False,119.0,Reflect Kid,Apparel,529.6271337529269,265.26,268.0,False,both
+120.0,Society Kid,Apparel,Kids,146.96,60.15,False,120.0,Society Kid,Apparel,151.6725412917945,60.15,220.0,False,both
+121.0,Themselves Footwear,Apparel,Footwear,183.38,112.48,False,,,,,,,,left_only
+122.0,Attorney Men,Apparel,Men,607.34,381.56,False,,,,,,,,left_only
+123.0,Anything Footwear,Apparel,Footwear,840.94,320.39,False,123.0,Anything Footwear,Apparel,859.7605111129426,320.39,384.0,False,both
+124.0,Act Kid,Apparel,Kids,640.23,396.2,False,,,,,,,,left_only
+125.0,Increase Women,Apparel,Women,584.13,343.96,False,125.0,Increase Women,Apparel,597.040016626138,343.96,276.0,False,both
+126.0,Field Men,Apparel,Men,240.49,89.98,False,126.0,Field Men,Apparel,245.6379186986215,89.98,178.0,False,both
+127.0,Research Footwear,Apparel,Footwear,111.4,48.35,False,127.0,Research Footwear,Apparel,115.42295145750036,48.35,6.0,False,both
+128.0,Pretty Kid,Apparel,Kids,686.4,247.87,False,128.0,Pretty Kid,Apparel,702.350455696092,247.87,296.0,False,both
+129.0,Direction Kid,Apparel,Kids,492.47,232.09,False,,,,,,,,left_only
+130.0,Fly Kid,Apparel,Kids,454.11,253.72,False,130.0,Fly Kid,Apparel,458.64843614537045,253.72,154.0,False,both
+131.0,Spring Kid,Apparel,Kids,797.13,323.06,False,131.0,Spring Kid,Apparel,792.9797955883354,323.06,128.0,False,both
+132.0,Set Men,Apparel,Men,299.38,175.25,False,132.0,Set Men,Apparel,298.52907863413094,175.25,306.0,False,both
+133.0,Actually Kid,Apparel,Kids,479.79,201.05,False,133.0,Actually Kid,Apparel,492.3708139079612,201.05,284.0,False,both
+134.0,Democrat Kid,Apparel,Kids,541.79,321.26,False,134.0,Democrat Kid,Apparel,565.7704621276284,321.26,408.0,False,both
+135.0,Road Women,Apparel,Women,550.83,338.26,False,135.0,Road Women,Apparel,562.8520295500844,338.26,106.0,False,both
+136.0,Watch Footwear,Apparel,Footwear,974.39,362.35,False,136.0,Watch Footwear,Apparel,963.632917671544,362.35,458.0,False,both
+137.0,Particular Kid,Apparel,Kids,316.92,166.82,False,137.0,Particular Kid,Apparel,314.8617833316524,166.82,259.0,False,both
+138.0,By Kid,Apparel,Kids,54.35,35.21,False,138.0,By Kid,Apparel,55.88621138945479,35.21,457.0,False,both
+139.0,About Men,Apparel,Men,835.42,310.66,False,139.0,About Men,Apparel,859.9126807242593,310.66,249.0,False,both
+140.0,Fall Footwear,Apparel,Footwear,500.02,326.58,False,,,,,,,,left_only
+141.0,Happen Men,Apparel,Men,251.45,135.51,False,141.0,Happen Men,Apparel,248.8757205785161,135.51,203.0,False,both
+142.0,Card Footwear,Apparel,Footwear,717.32,352.01,False,142.0,Card Footwear,Apparel,741.6584388018938,352.01,126.0,False,both
+143.0,Writer Women,Apparel,Women,421.93,163.91,False,143.0,Writer Women,Apparel,422.0365073529193,163.91,253.0,False,both
+144.0,Almost Women,Apparel,Women,299.76,136.44,False,144.0,Almost Women,Apparel,306.7918371628602,136.44,183.0,False,both
+145.0,Unit Men,Apparel,Men,61.15,42.96,False,145.0,Unit Men,Apparel,61.252017763671056,42.96,435.0,False,both
+146.0,Difficult Women,Apparel,Women,443.54,217.53,False,146.0,Difficult Women,Apparel,463.1309501017856,217.53,128.0,False,both
+147.0,Later Women,Apparel,Women,517.03,396.76,False,147.0,Later Women,Apparel,518.5255402452701,396.76,388.0,False,both
+148.0,Answer Women,Apparel,Women,304.48,118.69,False,148.0,Answer Women,Apparel,305.33942446605425,118.69,269.0,False,both
+149.0,Move Kid,Apparel,Kids,382.77,267.43,False,149.0,Move Kid,Apparel,384.0998255335227,267.43,447.0,False,both
+150.0,Population Kid,Apparel,Kids,182.12,134.07,False,,,,,,,,left_only
+151.0,Say Fitnes,Sports & Outdoors,Fitness,625.19,246.9,False,151.0,Say Fitnes,Sports & Outdoors,632.8354400824159,246.9,383.0,False,both
+152.0,Soon Camping,Sports & Outdoors,Camping,910.86,359.13,False,152.0,Soon Camping,Sports & Outdoors,894.9195914362084,359.13,160.0,False,both
+153.0,Feel Cycling,Sports & Outdoors,Cycling,530.38,238.57,False,153.0,Feel Cycling,Sports & Outdoors,535.4187334190595,238.57,182.0,False,both
+154.0,Attack Cycling,Sports & Outdoors,Cycling,115.68,58.03,False,154.0,Attack Cycling,Sports & Outdoors,116.37239739069004,58.03,334.0,False,both
+155.0,Away Camping,Sports & Outdoors,Camping,607.36,258.46,False,155.0,Away Camping,Sports & Outdoors,630.5594498881452,258.46,218.0,False,both
+156.0,Occur Camping,Sports & Outdoors,Camping,372.8,276.55,False,156.0,Occur Camping,Sports & Outdoors,366.27677137880187,276.55,266.0,False,both
+157.0,First Camping,Sports & Outdoors,Camping,701.5,278.88,False,157.0,First Camping,Sports & Outdoors,697.4723824949853,278.88,452.0,False,both
+158.0,Produce Cycling,Sports & Outdoors,Cycling,282.03,119.58,False,158.0,Produce Cycling,Sports & Outdoors,280.5854828015209,119.58,331.0,False,both
+159.0,Positive Camping,Sports & Outdoors,Camping,818.3,318.32,False,159.0,Positive Camping,Sports & Outdoors,856.9355005765342,318.32,71.0,False,both
+160.0,Where Camping,Sports & Outdoors,Camping,150.1,98.55,False,160.0,Where Camping,Sports & Outdoors,147.4159252581296,98.55,356.0,False,both
+161.0,Between Fitnes,Sports & Outdoors,Fitness,68.77,26.32,False,161.0,Between Fitnes,Sports & Outdoors,69.17882329602232,26.32,329.0,False,both
+162.0,Do Team Sport,Sports & Outdoors,Team Sports,126.53,53.07,False,162.0,Do Team Sport,Sports & Outdoors,124.84168004176558,53.07,307.0,False,both
+163.0,Ready Cycling,Sports & Outdoors,Cycling,598.68,276.03,False,163.0,Ready Cycling,Sports & Outdoors,603.0760212679575,276.03,408.0,False,both
+164.0,Great Team Sport,Sports & Outdoors,Team Sports,446.58,165.72,False,164.0,Great Team Sport,Sports & Outdoors,467.6689038071693,165.72,443.0,False,both
+165.0,Up Cycling,Sports & Outdoors,Cycling,605.76,375.16,False,165.0,Up Cycling,Sports & Outdoors,611.6955610184156,375.16,271.0,False,both
+166.0,Power Fitnes,Sports & Outdoors,Fitness,278.38,147.59,False,166.0,Power Fitnes,Sports & Outdoors,289.63890512964326,147.59,212.0,False,both
+167.0,Practice Fitnes,Sports & Outdoors,Fitness,39.88,15.46,False,,,,,,,,left_only
+168.0,Wait Camping,Sports & Outdoors,Camping,649.6,325.57,False,168.0,Wait Camping,Sports & Outdoors,672.1462586144397,325.57,140.0,False,both
+169.0,Contain Cycling,Sports & Outdoors,Cycling,458.05,181.5,False,,,,,,,,left_only
+170.0,Offer Team Sport,Sports & Outdoors,Team Sports,723.66,264.39,False,,,,,,,,left_only
+171.0,Her Camping,Sports & Outdoors,Camping,14.73,5.95,False,,,,,,,,left_only
+172.0,Half Team Sport,Sports & Outdoors,Team Sports,104.56,40.01,False,172.0,Half Team Sport,Sports & Outdoors,105.54510841405352,40.01,91.0,False,both
+173.0,Soon Fitnes,Sports & Outdoors,Fitness,587.7,354.03,False,173.0,Soon Fitnes,Sports & Outdoors,600.8140568671905,354.03,495.0,False,both
+174.0,Social Cycling,Sports & Outdoors,Cycling,864.84,363.2,False,174.0,Social Cycling,Sports & Outdoors,871.839738864552,363.2,37.0,False,both
+175.0,Either Fitnes,Sports & Outdoors,Fitness,600.57,253.72,False,175.0,Either Fitnes,Sports & Outdoors,623.7110185861208,253.72,41.0,False,both
+176.0,Where Cycling,Sports & Outdoors,Cycling,199.39,136.86,False,,,,,,,,left_only
+177.0,Hour Camping,Sports & Outdoors,Camping,156.12,86.79,False,177.0,Hour Camping,Sports & Outdoors,157.92039841042083,86.79,394.0,False,both
+178.0,Rich Cycling,Sports & Outdoors,Cycling,563.12,213.76,False,178.0,Rich Cycling,Sports & Outdoors,567.6808337961094,213.76,74.0,False,both
+179.0,Our Camping,Sports & Outdoors,Camping,478.65,175.67,False,179.0,Our Camping,Sports & Outdoors,487.1382293959962,175.67,50.0,False,both
+180.0,Grow Team Sport,Sports & Outdoors,Team Sports,843.45,385.76,False,180.0,Grow Team Sport,Sports & Outdoors,867.7334169108468,385.76,454.0,False,both
+181.0,Choice Team Sport,Sports & Outdoors,Team Sports,37.18,20.67,False,181.0,Choice Team Sport,Sports & Outdoors,37.2778558997043,20.67,38.0,False,both
+182.0,Answer Fitnes,Sports & Outdoors,Fitness,500.91,191.38,False,182.0,Answer Fitnes,Sports & Outdoors,492.0578754801149,191.38,457.0,False,both
+183.0,High Camping,Sports & Outdoors,Camping,942.96,369.47,False,,,,,,,,left_only
+184.0,Important Cycling,Sports & Outdoors,Cycling,278.4,122.21,False,,,,,,,,left_only
+185.0,Avoid Camping,Sports & Outdoors,Camping,582.19,268.37,False,185.0,Avoid Camping,Sports & Outdoors,588.785342414385,268.37,199.0,False,both
+186.0,Along Fitnes,Sports & Outdoors,Fitness,290.81,213.7,False,186.0,Along Fitnes,Sports & Outdoors,286.61271639621043,213.7,364.0,False,both
+187.0,Artist Team Sport,Sports & Outdoors,Team Sports,127.57,97.88,False,187.0,Artist Team Sport,Sports & Outdoors,126.19046947792884,97.88,227.0,False,both
+188.0,Involve Fitnes,Sports & Outdoors,Fitness,550.0,321.55,False,188.0,Involve Fitnes,Sports & Outdoors,540.8990538396591,321.55,129.0,False,both
+189.0,Message Team Sport,Sports & Outdoors,Team Sports,24.7,9.49,False,,,,,,,,left_only
+190.0,Over Cycling,Sports & Outdoors,Cycling,707.42,308.25,False,190.0,Over Cycling,Sports & Outdoors,702.2435914252166,308.25,216.0,False,both
+191.0,Yeah Camping,Sports & Outdoors,Camping,457.7,215.03,False,191.0,Yeah Camping,Sports & Outdoors,476.2062035027295,215.03,347.0,False,both
+192.0,Participant Camping,Sports & Outdoors,Camping,697.79,370.47,False,192.0,Participant Camping,Sports & Outdoors,698.5602671294922,370.47,345.0,False,both
+193.0,Add Camping,Sports & Outdoors,Camping,351.11,219.39,False,193.0,Add Camping,Sports & Outdoors,361.5462870605007,219.39,106.0,False,both
+194.0,Quickly Fitnes,Sports & Outdoors,Fitness,222.76,133.52,False,,,,,,,,left_only
+195.0,After Fitnes,Sports & Outdoors,Fitness,132.26,54.56,False,195.0,After Fitnes,Sports & Outdoors,130.56763990631103,54.56,340.0,False,both
+196.0,Information Cycling,Sports & Outdoors,Cycling,518.75,269.71,False,196.0,Information Cycling,Sports & Outdoors,544.18926264758,269.71,30.0,False,both
+197.0,Own Camping,Sports & Outdoors,Camping,538.79,292.48,False,197.0,Own Camping,Sports & Outdoors,552.9192533785797,292.48,74.0,False,both
+198.0,Later Cycling,Sports & Outdoors,Cycling,266.02,125.87,False,198.0,Later Cycling,Sports & Outdoors,265.6721168053476,125.87,134.0,False,both
+199.0,Yes Fitnes,Sports & Outdoors,Fitness,51.0,33.26,False,199.0,Yes Fitnes,Sports & Outdoors,53.31193253750392,33.26,62.0,False,both
+200.0,White Fitnes,Sports & Outdoors,Fitness,533.81,381.57,False,200.0,White Fitnes,Sports & Outdoors,536.4790788867238,381.57,55.0,False,both
+201.0,When Supplement,Beauty & Health,Supplements,567.68,386.16,False,201.0,When Supplement,Beauty & Health,589.8946433368567,386.16,52.0,False,both
+202.0,Thank Skincare,Beauty & Health,Skincare,514.85,201.68,False,202.0,Thank Skincare,Beauty & Health,528.8838586489712,201.68,75.0,False,both
+203.0,Officer Skincare,Beauty & Health,Skincare,431.09,194.05,False,,,,,,,,left_only
+204.0,Artist Supplement,Beauty & Health,Supplements,578.66,316.23,False,204.0,Artist Supplement,Beauty & Health,579.5108485714196,316.23,181.0,False,both
+205.0,Back Haircare,Beauty & Health,Haircare,367.74,219.49,False,205.0,Back Haircare,Beauty & Health,363.9341342220557,219.49,401.0,False,both
+206.0,Office Skincare,Beauty & Health,Skincare,612.54,396.87,False,206.0,Office Skincare,Beauty & Health,617.8947183818207,396.87,394.0,False,both
+207.0,Impact Haircare,Beauty & Health,Haircare,518.71,193.04,False,207.0,Impact Haircare,Beauty & Health,518.3505357718425,193.04,9.0,False,both
+208.0,Series Skincare,Beauty & Health,Skincare,260.07,138.05,False,208.0,Series Skincare,Beauty & Health,258.1701289256751,138.05,61.0,False,both
+209.0,Leg Skincare,Beauty & Health,Skincare,797.01,323.49,False,209.0,Leg Skincare,Beauty & Health,816.3223286573551,323.49,140.0,False,both
+210.0,Me Haircare,Beauty & Health,Haircare,177.09,78.49,False,210.0,Me Haircare,Beauty & Health,185.67918242930813,78.49,234.0,False,both
+211.0,Everyone Skincare,Beauty & Health,Skincare,943.9,390.53,False,211.0,Everyone Skincare,Beauty & Health,930.3826516057624,390.53,235.0,False,both
+212.0,Another Personal Care,Beauty & Health,Personal Care,445.65,224.31,False,,,,,,,,left_only
+213.0,Star Supplement,Beauty & Health,Supplements,111.83,82.05,False,213.0,Star Supplement,Beauty & Health,113.99777709858668,82.05,359.0,False,both
+214.0,Safe Skincare,Beauty & Health,Skincare,304.46,229.66,False,214.0,Safe Skincare,Beauty & Health,307.43213467492745,229.66,496.0,False,both
+215.0,Want Supplement,Beauty & Health,Supplements,501.1,260.54,False,,,,,,,,left_only
+216.0,Effort Supplement,Beauty & Health,Supplements,492.92,345.22,False,216.0,Effort Supplement,Beauty & Health,513.4723991647747,345.22,11.0,False,both
+217.0,Measure Skincare,Beauty & Health,Skincare,479.18,238.38,False,217.0,Measure Skincare,Beauty & Health,486.45974180922354,238.38,90.0,False,both
+218.0,Month Supplement,Beauty & Health,Supplements,127.17,50.54,False,218.0,Month Supplement,Beauty & Health,128.2295218620424,50.54,455.0,False,both
+219.0,Example Supplement,Beauty & Health,Supplements,211.99,100.68,False,219.0,Example Supplement,Beauty & Health,212.35217180601285,100.68,283.0,False,both
+220.0,Run Skincare,Beauty & Health,Skincare,475.38,343.89,False,220.0,Run Skincare,Beauty & Health,471.1522630385807,343.89,207.0,False,both
+221.0,Response Haircare,Beauty & Health,Haircare,704.75,279.27,False,221.0,Response Haircare,Beauty & Health,738.521701400346,279.27,292.0,False,both
+222.0,Car Supplement,Beauty & Health,Supplements,264.61,137.96,False,222.0,Car Supplement,Beauty & Health,274.02241992413013,137.96,3.0,False,both
+223.0,Sense Supplement,Beauty & Health,Supplements,57.85,32.82,False,223.0,Sense Supplement,Beauty & Health,58.8654264605062,32.82,492.0,False,both
+224.0,Voice Skincare,Beauty & Health,Skincare,23.12,13.38,False,224.0,Voice Skincare,Beauty & Health,23.10873989596997,13.38,49.0,False,both
+225.0,Discover Skincare,Beauty & Health,Skincare,939.11,348.19,False,225.0,Discover Skincare,Beauty & Health,960.5835774192838,348.19,129.0,False,both
+226.0,Recognize Skincare,Beauty & Health,Skincare,211.98,146.93,False,226.0,Recognize Skincare,Beauty & Health,218.0682578959709,146.93,221.0,False,both
+227.0,Daughter Supplement,Beauty & Health,Supplements,192.19,129.37,False,227.0,Daughter Supplement,Beauty & Health,195.60506438480573,129.37,301.0,False,both
+228.0,Over Skincare,Beauty & Health,Skincare,162.75,94.91,False,228.0,Over Skincare,Beauty & Health,163.48990336524056,94.91,467.0,False,both
+229.0,Thus Skincare,Beauty & Health,Skincare,690.53,325.2,False,229.0,Thus Skincare,Beauty & Health,691.5817408645145,325.2,383.0,False,both
+230.0,Fight Supplement,Beauty & Health,Supplements,829.69,362.81,False,230.0,Fight Supplement,Beauty & Health,853.2213475453452,362.81,261.0,False,both
+231.0,Food Personal Care,Beauty & Health,Personal Care,410.59,301.66,False,231.0,Food Personal Care,Beauty & Health,403.0149052256267,301.66,44.0,False,both
+232.0,Partner Personal Care,Beauty & Health,Personal Care,71.83,39.91,False,232.0,Partner Personal Care,Beauty & Health,73.96191404153438,39.91,59.0,False,both
+233.0,Say Haircare,Beauty & Health,Haircare,82.49,30.29,False,233.0,Say Haircare,Beauty & Health,85.11124672630197,30.29,106.0,False,both
+234.0,House Skincare,Beauty & Health,Skincare,486.72,356.89,False,234.0,House Skincare,Beauty & Health,496.8041706457723,356.89,422.0,False,both
+235.0,Training Personal Care,Beauty & Health,Personal Care,370.09,218.16,False,235.0,Training Personal Care,Beauty & Health,370.7166499339401,218.16,477.0,False,both
+236.0,Down Haircare,Beauty & Health,Haircare,55.21,35.56,False,236.0,Down Haircare,Beauty & Health,57.25206353686829,35.56,218.0,False,both
+237.0,Against Skincare,Beauty & Health,Skincare,335.88,253.44,False,,,,,,,,left_only
+238.0,Able Haircare,Beauty & Health,Haircare,192.17,70.24,False,238.0,Able Haircare,Beauty & Health,195.33138217899543,70.24,35.0,False,both
+239.0,Increase Haircare,Beauty & Health,Haircare,517.8,395.89,False,239.0,Increase Haircare,Beauty & Health,513.2767911914649,395.89,386.0,False,both
+240.0,Military Supplement,Beauty & Health,Supplements,555.47,231.95,False,240.0,Military Supplement,Beauty & Health,559.5904549138015,231.95,223.0,False,both
+241.0,Low Personal Care,Beauty & Health,Personal Care,306.12,220.38,False,241.0,Low Personal Care,Beauty & Health,314.02009751372174,220.38,398.0,False,both
+242.0,Huge Personal Care,Beauty & Health,Personal Care,166.1,79.41,False,242.0,Huge Personal Care,Beauty & Health,166.72082330629962,79.41,281.0,False,both
+243.0,Son Personal Care,Beauty & Health,Personal Care,746.93,389.57,False,243.0,Son Personal Care,Beauty & Health,743.2310142920069,389.57,467.0,False,both
+244.0,Thus Supplement,Beauty & Health,Supplements,263.25,101.87,False,244.0,Thus Supplement,Beauty & Health,263.59553596437144,101.87,58.0,False,both
+245.0,Throughout Personal Care,Beauty & Health,Personal Care,7029.660930838486,104.23,True,245.0,Throughout Personal Care,Beauty & Health,7417.682708543711,104.23,354.0,True,both
+246.0,Close Personal Care,Beauty & Health,Personal Care,574.84,237.52,False,246.0,Close Personal Care,Beauty & Health,586.1040411956446,237.52,339.0,False,both
+247.0,Good Haircare,Beauty & Health,Haircare,708.26,326.34,False,247.0,Good Haircare,Beauty & Health,720.4388418401803,326.34,359.0,False,both
+248.0,Generation Haircare,Beauty & Health,Haircare,75.61,55.58,False,248.0,Generation Haircare,Beauty & Health,77.34200073942078,55.58,137.0,False,both
+249.0,Across Skincare,Beauty & Health,Skincare,682.27,293.31,False,249.0,Across Skincare,Beauty & Health,700.1897679804321,293.31,129.0,False,both
+250.0,Discover Haircare,Beauty & Health,Haircare,7029.660930838486,112.79,True,250.0,Discover Haircare,Beauty & Health,7417.682708543711,112.79,245.0,True,both
+251.0,College Fiction,Books & Media,Fiction,439.11,332.5,False,251.0,College Fiction,Books & Media,438.5662037766304,332.5,34.0,False,both
+252.0,Property Non-Fiction,Books & Media,Non-Fiction,274.43,180.49,False,252.0,Property Non-Fiction,Books & Media,284.53816276634205,180.49,443.0,False,both
+253.0,Happen Fiction,Books & Media,Fiction,621.95,347.91,False,253.0,Happen Fiction,Books & Media,611.3149295885618,347.91,232.0,False,both
+254.0,Them Children,Books & Media,Children,286.86,179.03,False,254.0,Them Children,Books & Media,294.01053130998105,179.03,261.0,False,both
+255.0,Activity Non-Fiction,Books & Media,Non-Fiction,249.2,157.52,False,255.0,Activity Non-Fiction,Books & Media,254.3217637255217,157.52,198.0,False,both
+256.0,Baby Non-Fiction,Books & Media,Non-Fiction,537.93,197.5,False,256.0,Baby Non-Fiction,Books & Media,528.6649475061615,197.5,114.0,False,both
+257.0,Minute Children,Books & Media,Children,8.4,4.21,False,257.0,Minute Children,Books & Media,8.447087065071797,4.21,434.0,False,both
+258.0,Difference Fiction,Books & Media,Fiction,626.09,300.08,False,258.0,Difference Fiction,Books & Media,623.0426170675411,300.08,413.0,False,both
+259.0,Hundred Fiction,Books & Media,Fiction,533.22,352.88,False,,,,,,,,left_only
+260.0,Form Media,Books & Media,Media,619.66,308.31,False,260.0,Form Media,Books & Media,620.0114628451765,308.31,185.0,False,both
+261.0,Especially Fiction,Books & Media,Fiction,429.63,235.83,False,261.0,Especially Fiction,Books & Media,430.3677909367672,235.83,54.0,False,both
+262.0,Case Media,Books & Media,Media,214.85,82.77,False,,,,,,,,left_only
+263.0,Way Media,Books & Media,Media,222.36,110.05,False,,,,,,,,left_only
+264.0,Include Non-Fiction,Books & Media,Non-Fiction,16.2,9.81,False,264.0,Include Non-Fiction,Books & Media,16.132979784023618,9.81,91.0,False,both
+265.0,Create Non-Fiction,Books & Media,Non-Fiction,839.64,394.64,False,265.0,Create Non-Fiction,Books & Media,835.8181286920219,394.64,321.0,False,both
+266.0,Feeling Non-Fiction,Books & Media,Non-Fiction,110.99,46.6,False,266.0,Feeling Non-Fiction,Books & Media,115.11271864828234,46.6,198.0,False,both
+267.0,Born Fiction,Books & Media,Fiction,253.7,110.91,False,267.0,Born Fiction,Books & Media,251.73942900308705,110.91,371.0,False,both
+268.0,Machine Media,Books & Media,Media,23.79,11.06,False,268.0,Machine Media,Books & Media,24.40864114838546,11.06,214.0,False,both
+269.0,Note Non-Fiction,Books & Media,Non-Fiction,603.81,359.81,False,269.0,Note Non-Fiction,Books & Media,609.6404696459401,359.81,404.0,False,both
+270.0,Environmental Non-Fiction,Books & Media,Non-Fiction,7029.660930838486,252.13,True,270.0,Environmental Non-Fiction,Books & Media,7417.682708543711,252.13,16.0,True,both
+271.0,Create Children,Books & Media,Children,756.22,308.09,False,271.0,Create Children,Books & Media,791.2298781171068,308.09,283.0,False,both
+272.0,Pass Children,Books & Media,Children,5.69,3.58,False,272.0,Pass Children,Books & Media,5.65764802339789,3.58,422.0,False,both
+273.0,Ask Children,Books & Media,Children,560.24,289.19,False,273.0,Ask Children,Books & Media,553.4804706099255,289.19,85.0,False,both
+274.0,Product Children,Books & Media,Children,528.78,235.72,False,274.0,Product Children,Books & Media,522.1918350771778,235.72,27.0,False,both
+275.0,Culture Children,Books & Media,Children,82.62,41.15,False,275.0,Culture Children,Books & Media,84.89791709102369,41.15,221.0,False,both
+276.0,Recently Non-Fiction,Books & Media,Non-Fiction,341.21,131.91,False,276.0,Recently Non-Fiction,Books & Media,353.5896928579121,131.91,370.0,False,both
+277.0,Your Non-Fiction,Books & Media,Non-Fiction,437.32,214.4,False,,,,,,,,left_only
+278.0,Page Fiction,Books & Media,Fiction,402.71,276.82,False,278.0,Page Fiction,Books & Media,402.72249780617807,276.82,176.0,False,both
+279.0,Scientist Non-Fiction,Books & Media,Non-Fiction,226.81,166.06,False,279.0,Scientist Non-Fiction,Books & Media,236.71835430036407,166.06,209.0,False,both
+280.0,Start Fiction,Books & Media,Fiction,121.8,43.74,False,280.0,Start Fiction,Books & Media,127.77174788694585,43.74,336.0,False,both
+281.0,Citizen Non-Fiction,Books & Media,Non-Fiction,146.98,90.63,False,281.0,Citizen Non-Fiction,Books & Media,152.74051616118035,90.63,59.0,False,both
+282.0,Discuss Fiction,Books & Media,Fiction,280.61,104.81,False,,,,,,,,left_only
+283.0,Strategy Children,Books & Media,Children,680.49,258.28,False,283.0,Strategy Children,Books & Media,694.5366441600112,258.28,194.0,False,both
+284.0,Do Fiction,Books & Media,Fiction,228.9,138.3,False,284.0,Do Fiction,Books & Media,231.57130743870235,138.3,303.0,False,both
+285.0,Foot Children,Books & Media,Children,667.54,317.07,False,285.0,Foot Children,Books & Media,694.8886446208359,317.07,124.0,False,both
+286.0,Give Non-Fiction,Books & Media,Non-Fiction,47.93,20.54,False,286.0,Give Non-Fiction,Books & Media,47.44226211581361,20.54,157.0,False,both
+287.0,Total Fiction,Books & Media,Fiction,754.14,370.71,False,287.0,Total Fiction,Books & Media,752.1836547217557,370.71,336.0,False,both
+288.0,Beyond Media,Books & Media,Media,515.26,355.32,False,288.0,Beyond Media,Books & Media,540.4669826600391,355.32,161.0,False,both
+289.0,Available Non-Fiction,Books & Media,Non-Fiction,635.36,370.15,False,289.0,Available Non-Fiction,Books & Media,656.2244440909111,370.15,28.0,False,both
+290.0,Administration Children,Books & Media,Children,908.96,374.06,False,290.0,Administration Children,Books & Media,913.953030157746,374.06,97.0,False,both
+291.0,Since Non-Fiction,Books & Media,Non-Fiction,19.78,13.68,False,291.0,Since Non-Fiction,Books & Media,19.91295960666735,13.68,281.0,False,both
+292.0,Store Fiction,Books & Media,Fiction,425.68,267.92,False,292.0,Store Fiction,Books & Media,433.5011503369727,267.92,196.0,False,both
+293.0,Almost Non-Fiction,Books & Media,Non-Fiction,709.48,295.78,False,293.0,Almost Non-Fiction,Books & Media,718.9819433090704,295.78,305.0,False,both
+294.0,Owner Non-Fiction,Books & Media,Non-Fiction,141.94,81.46,False,,,,,,,,left_only
+295.0,Among Media,Books & Media,Media,139.02,92.57,False,295.0,Among Media,Books & Media,144.66394724894755,92.57,365.0,False,both
+296.0,Question Non-Fiction,Books & Media,Non-Fiction,361.73,148.56,False,,,,,,,,left_only
+297.0,Want Media,Books & Media,Media,89.43,64.11,False,297.0,Want Media,Books & Media,90.7301362239451,64.11,423.0,False,both
+298.0,Wait Media,Books & Media,Media,238.39,153.1,False,298.0,Wait Media,Books & Media,238.58870455995967,153.1,281.0,False,both
+299.0,Know Non-Fiction,Books & Media,Non-Fiction,725.08,274.72,False,299.0,Know Non-Fiction,Books & Media,760.083079620278,274.72,85.0,False,both
+300.0,Those Non-Fiction,Books & Media,Non-Fiction,133.29,87.08,False,300.0,Those Non-Fiction,Books & Media,133.26256617897812,87.08,0.0,False,both
+,,,,,,,9000.0,Small Prototype,Books & Media,38.48,34.07,16.0,False,right_only
+,,,,,,,9001.0,Standard Prototype,Beauty & Health,97.52,140.67,50.0,False,right_only
+,,,,,,,9002.0,Executive Prototype,Apparel,47.71,103.54,31.0,False,right_only
+,,,,,,,9003.0,Task Prototype,Sports & Outdoors,121.02,94.13,30.0,False,right_only
+,,,,,,,9004.0,Growth Prototype,Beauty & Health,75.01,68.96,8.0,False,right_only
+,,,,,,,9005.0,Suddenly Prototype,Home & Kitchen,174.9,72.38,46.0,False,right_only
+,,,,,,,9006.0,Individual Prototype,Apparel,288.34,131.09,11.0,False,right_only
+,,,,,,,9007.0,Leader Prototype,Sports & Outdoors,107.98,61.73,24.0,False,right_only
+,,,,,,,9008.0,Sign Prototype,Electronics,274.14,91.39,4.0,False,right_only
+,,,,,,,9009.0,Trial Prototype,Electronics,141.54,132.01,49.0,False,right_only
+,,,,,,,9010.0,Attention Prototype,Beauty & Health,157.72,14.75,35.0,False,right_only
+,,,,,,,9011.0,Boy Prototype,Sports & Outdoors,38.5,35.74,33.0,False,right_only
