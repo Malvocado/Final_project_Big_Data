@@ -26,6 +26,10 @@ A complete analytics pipeline for UrbanCart, a fictional online retailer. The pr
 ## How to Run
 
 ```powershell
+# Clone the repository
+git clone https://github.com/Malvocado/Final_project_Big_Data.git
+cd Final_project_Big_Data
+
 # Activate virtual environment
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .venv\Scripts\activate
